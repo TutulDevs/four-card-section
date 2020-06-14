@@ -29,8 +29,9 @@ body {
 ****************************************/
 header {
     text-align: center;
-    width: 400px;
+    max-width: 400px;
     margin: 2rem auto;
+    padding: 0 1rem;
 }
 header h2 {
     margin: 8px 0;
